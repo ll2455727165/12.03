@@ -1,0 +1,19 @@
+.box{
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    font-weight: bold;
+    border: 1px #e4393c solid;
+    text-align: center;
+}
+
+.auto-img{
+    width: 100%;
+    display: block;
+}
+
+.img{
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;
+}
